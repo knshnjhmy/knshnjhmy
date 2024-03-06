@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @knshnjhmy
 - 👀 I’m interested in learning uwu
 - 🌱 I’m currently learning C++
-- ⚡ Fun fact:The term "bug" to describe a problem in a program actually originates from an incident involving a moth. In 1947, Grace Hopper, a computer scientist,
--    found a moth stuck in a relay of the Harvard Mark II computer.
--    She famously removed the moth and taped it into the logbook, noting "First actual case of bug being found." This incident popularized the term "bug" to describe a flaw or error in a computer program.
+- ⚡ Fun fact:The term "bug" to describe a problem in a program actually originates from an incident involving a moth. In 1947, Grace Hopper, a computer scientist, found a moth stuck in a relay of the Harvard Mark II computer. She famously removed the moth and taped it into the logbook, noting "First actual case of bug being found." This incident popularized the term "bug" to describe a flaw or error in a computer program.
