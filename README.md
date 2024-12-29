@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @knshnjhmy
-- 👀 I’m interested in learning uwu
+- 👀 I’m interested in learning 
 - 🌱 I’m currently learning C++ and Phyton
